@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
 ## Date:
-29.03.24
+
 
 ## AIM:
 To develop a simple webserver to serve html pages.
